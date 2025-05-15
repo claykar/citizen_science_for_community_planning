@@ -1,8 +1,5 @@
 # Citizen Science for Community Planning
 
-Author: Clay Karnis
-Date: December 2024
-
 ## Introduction
 
 In today’s world data is practically a commodity, becoming a cornerstone of effective community planning telling stories of a community’s environmental, social, and economic activity. As communities face increasing challenges, issues such as rapid urbanization, resource depletion, and climate change there is a growing need for innovative approaches to planning. One such approach is citizen science which engages citizens directly with data about issues in their communities’ issues through collection, analysis, and dissemination.
