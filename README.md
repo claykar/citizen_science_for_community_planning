@@ -1,6 +1,7 @@
 # Citizen Science for Community Planning
 
-Clay Karnis
+Author: Clay Karnis
+Date: December 2024
 
 ## Introduction
 
